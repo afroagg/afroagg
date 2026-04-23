@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 Agatha Rodrigues
 
-<!--
-**afroagg/afroagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação pela FIAP, com formação técnica em Desenvolvimento de Sistemas pela ETEC e foco em desenvolvimento front-end.
 
-Here are some ideas to get you started:
+Atualmente atuo como Quality Support Analyst, realizando análises de qualidade, métricas de desempenho e suporte em português e inglês, desenvolvendo habilidades analíticas, atenção aos detalhes e melhoria contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo base em programação, lógica computacional e desenvolvimento web, e estou em busca de oportunidades de estágio na área de tecnologia, com foco em front-end.
+
+---
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git e GitHub
+
+---
+
+## Idiomas
+
+- Português: Nativo  
+- Inglês: Intermediário/Avançado  
+
+---
+
+## Projetos
+
+To-Do App em React  
+https://github.com/afroagg/todo-react
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/agatha-carolina-rodrigues-887567250/
