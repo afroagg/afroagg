@@ -22,7 +22,7 @@ Possuo base em programação, lógica computacional e desenvolvimento web, e est
 ## Idiomas
 
 - Português: Nativo  
-- Inglês: Intermediário/Avançado
+- Inglês: Avançado
 - Libras: Básico  
 
 ---
