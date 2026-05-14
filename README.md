@@ -15,13 +15,15 @@ Possuo base em programação, lógica computacional e desenvolvimento web, e est
 - JavaScript
 - React
 - Git e GitHub
+- Python
 
 ---
 
 ## Idiomas
 
 - Português: Nativo  
-- Inglês: Intermediário/Avançado  
+- Inglês: Intermediário/Avançado
+- Libras: Básico  
 
 ---
 
@@ -35,3 +37,4 @@ https://github.com/afroagg/todo-react
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/agatha-carolina-rodrigues-887567250/
+- Email: agathacarolina.rodrigues@gmail.com
